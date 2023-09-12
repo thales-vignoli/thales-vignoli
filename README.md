@@ -5,8 +5,8 @@
 
 - :man_student: Formado em Engenharia Elétrica, pela <strong>Universidade Tecnológica Federal do Paraná</strong>
 - :chart_with_downwards_trend: Formação em Data Science, pela <strong> Escola DNC </strong>
-- :hammer: Atualmente sou Desenvolvedor de Produtos na Movement e utilizo as ferramentas: ESP32, STM32, Arduino, Python, Excel e PowerBI
-- 🌱 Apaixonado pelo mundo dos dados, atualmente estou desenvolvendo projetos para criar meu portfólio
+- :hammer: Atualmente sou Desenvolvedor de Produtos na Movement e utilizo as ferramentas: <strong>ESP32, STM32, Arduino, Python, Excel e PowerBI</strong>
+- 🌱 Apaixonado pelo mundo dos dados, atualmente estou <strong>desenvolvendo</strong> projetos para criar meu <strong>portfólio</strong>
   
 <h3> 🛠 &nbsp;Conhecimentos</h3>
 
