@@ -13,10 +13,10 @@
 - :hammer: Atualmente sou Desenvolvedor de Produtos na Movement e utilizo as ferramentas: <strong>ESP32, STM32, Arduino, Python, Excel e PowerBI</strong>
 - 🌱 Apaixonado pelo mundo dos dados, atualmente estou <strong>desenvolvendo</strong> projetos para criar meu <strong>portfólio</strong>
   
-<h3> 🛠 &nbsp;Conhecimentos</h3>
+<h3> &nbsp;Linguagens e Ferramentas</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  !(https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=white)
