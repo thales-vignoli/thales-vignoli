@@ -3,8 +3,8 @@
 
 <h3> Sobre mim </h3>
 
-- :man_student: Formado em Engenharia Elétrica strong>, pela <strong>Universidade Tecnológica Federal do Paraná</strong>
-- :chart_with_downwards_trend: Formação em Data Science, pela <strong>Flutter</strong> Escola DNC
+- :man_student: Formado em Engenharia Elétrica, pela <strong>Universidade Tecnológica Federal do Paraná</strong>
+- :chart_with_downwards_trend: Formação em Data Science, pela <strong> Escola DNC </strong>
 - :hammer: Atualmente sou Desenvolvedor de Produtos na Movement e utilizo as ferramentas: ESP32, STM32, Arduino, Python, Excel e PowerBI
 - 🌱 Apaixonado pelo mundo dos dados, atualmente estou desenvolvendo projetos para criar meu portfólio
   
@@ -27,23 +27,16 @@
 
 <h3> 🤝🏻 &nbsp;Fale comigo</h3>
 
-  <a href="https://www.linkedin.com/in/joaojordan" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-6610F2.svg?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/joaojordan"/>
-  </a>
-  <a href="https://www.twitch.tv/mtsu0" alt="Twitch">
-    <img src="https://img.shields.io/badge/Twitch-6610F2.svg?style=for-the-badge&logo=Twitch&logoColor=FFFFFF&link=https://www.twitch.tv/mtsu0"/>
-  </a>
-  <a href="https://discord.gg/xXSnMq35wh" alt="Discord">
-    <img src="https://img.shields.io/badge/Discord-6610F2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF&link=https://www.twitch.tv/mtsu0"/>
-  </a>
-  <a href="mailto:dev.joao.jordan@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Gmail-6610F2.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF">
-  </a>
+<h3 align="left">Conecte-se comigo: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/company/dm-hub-digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thalesvignoli/" height="30" width="40" /></a>
+<a href="https://instagram.com/datamarketingoficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="datamarketingoficial" height="30" width="40" /></a>
+<a href="https://medium.com/@thalesvignoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucag-ddg4ptqztp8mu4nllsa" height="30" width="40" /></a>
 </p>
 
 <br/>
 
-<a href="https://github.com/joao-jordan">
+<a href="https://github.com/thales-vignoli">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=thales-vignoli&theme=radical&show_icons=true" />
   <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thales-vignoli&theme=radical&layout=compact" />
 </a>
