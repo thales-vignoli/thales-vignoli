@@ -19,6 +19,11 @@
 
 
 <br/>
+
+<p align="left">
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/thales-vignoli/thales-vignoli.svg" />
+</p>
+
 <br/>
 
 <a href="https://github.com/thales-vignoli">
