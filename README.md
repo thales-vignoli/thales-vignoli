@@ -1,5 +1,10 @@
 
-<h2> Hello World! Eu sou o Thales! </h2>
+<h2> Olá, Eu sou o Thales! </h2>
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thales-vignoli)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thalesvignoli/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/thalesvignoli/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thalesvignoli@alunos.utfpr.edu.br)
 
 <h3> Sobre mim </h3>
 
@@ -21,8 +26,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter)
 
 
 <h3 align="left"> 🤝🏻 Conecte-se comigo: </h3>
