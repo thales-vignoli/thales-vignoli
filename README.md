@@ -1,12 +1,13 @@
 
-<h2> Olá, sou o João!</h2>
+<h2> Hello World! Eu sou o Thales! </h2>
 
 <h3> Sobre mim </h3>
 
-- :man_student: Graduando em <strong>Engenharia de Controle e Automação</strong>, pela <strong>Universidade Tecnológica Federal do Paraná</strong>
-- :iphone: Atualmente estou aprendendo a desenvolver aplicações mobile com <strong>Flutter</strong>
-- :mechanical_arm: Gosto de programar microcontroladores para automação residencial e brincar com as possibilidades que esses kits de desenvolvimento oferecem.
-
+- :man_student: Formado em Engenharia Elétrica strong>, pela <strong>Universidade Tecnológica Federal do Paraná</strong>
+- :chart_with_downwards_trend: Formação em Data Science, pela <strong>Flutter</strong> Escola DNC
+- :hammer: Atualmente sou Desenvolvedor de Produtos na Movement e utilizo as ferramentas: ESP32, STM32, Arduino, Python, Excel e PowerBI
+- 🌱 Apaixonado pelo mundo dos dados, atualmente estou desenvolvendo projetos para criar meu portfólio
+  
 <h3> 🛠 &nbsp;Conhecimentos</h3>
 
 - 💻 &nbsp;
