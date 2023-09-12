@@ -16,7 +16,7 @@
 <h3> &nbsp;Linguagens e Ferramentas</h3>
 
 - 💻 &nbsp;
-  ![C](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
+  !![C](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg){width=100px height=100px}
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C++](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=white)
