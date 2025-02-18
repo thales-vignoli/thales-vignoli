@@ -7,7 +7,7 @@
 
 <h3> About Me </h3>
 
-- 🎓 Over three years of experience working with data projects and embedded systems in industry.
+- 🎓 Im electrical engineer over three years of experience working with data projects and embedded systems in industry.
 - 📝 Currently doing a master's degree in computer science with a focus on gen AI.
 - 🤖 Developed end-to-end AI projects to show my habilities.
 - 💪 Passionate about artificial intelligence.
@@ -19,6 +19,8 @@
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 </p>
 
 <h4>Technologies</h4>
