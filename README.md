@@ -22,6 +22,7 @@
 
 <h4>Technologies</h4>
 <p>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white">
@@ -47,12 +48,12 @@
 <br/>
 
 <p align="left">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/cmcouto-silva/cmcouto-silva.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/thales-vignoli/thales-vignoli.svg" />
 </p>
 
 <br/>
 
-<a href="https://github.com/cmcouto-silva">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=cmcouto-silva&theme=radical&show_icons=true" />
-  <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmcouto-silva&theme=radical&layout=compact" />
+<a href="https://github.com/thales-vignoli">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=thales-vignoli&theme=radical&show_icons=true" />
+  <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thales-vignoli&theme=radical&layout=compact" />
 </a>
