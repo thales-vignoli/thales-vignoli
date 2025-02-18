@@ -49,14 +49,3 @@
 </p>
 
 <br/>
-
-<p align="left">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/thales-vignoli/thales-vignoli.svg" />
-</p>
-
-<br/>
-
-<a href="https://github.com/thales-vignoli">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=thales-vignoli&theme=radical&show_icons=true" />
-  <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thales-vignoli&theme=radical&layout=compact" />
-</a>
